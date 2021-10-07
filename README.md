@@ -1,0 +1,2 @@
+# rakuten-domaintakeover
+subdomaintakeover
